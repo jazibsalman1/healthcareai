@@ -1,0 +1,19 @@
+[33mb854dad[m[33m ([m[1;36mHEAD[m[33m, [m[1;31morigin/main[m[33m)[m HEAD@{0}: pull origin main --rebase (start): checkout b854dadd1f2759c4550bc59607e19d6531c9aea7
+[33mcc815e1[m[33m ([m[1;32mmain[m[33m)[m HEAD@{1}: commit: pushing for deployemnt
+[33m3c6261b[m HEAD@{2}: commit: TinyLlama chatbot initial commit
+[33m457e49c[m HEAD@{3}: commit: changes
+[33m2f29f97[m HEAD@{4}: commit: vercel
+[33mcdb657e[m HEAD@{5}: commit: deployed
+[33md7b5805[m HEAD@{6}: commit: all done going to deploy it
+[33me79f4ee[m HEAD@{7}: commit: made another file for about us for css and changed it from medllama2 to tiny llama
+[33m2c00dd1[m HEAD@{8}: commit: testing the lightest ai model because my laptop is slow
+[33m36ea06f[m HEAD@{9}: commit: real time processing added
+[33m9ec5a70[m HEAD@{10}: commit: favicon error fixed
+[33mf74a035[m HEAD@{11}: commit: medllama2 will be used now
+[33mf0a6e29[m HEAD@{12}: commit: some looks changes
+[33m93ebe14[m HEAD@{13}: commit: now only ollama response will be shhwo
+[33m39ca58f[m HEAD@{14}: commit: made the response more beautful instead of the json format
+[33mae6ae53[m HEAD@{15}: commit: enhanced the ui and also giving some response when ollama not installed
+[33mb6ea624[m HEAD@{16}: commit: simple bot for health advive
+[33m7c24feb[m HEAD@{17}: commit: changes
+[33m7080953[m HEAD@{18}: commit (initial): started
